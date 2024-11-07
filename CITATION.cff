@@ -16,5 +16,5 @@ identifiers:
   - description: This is the archived snapshot of version 0.11.2 of My Research Software
     type: doi
     value: "10.5281/zenodo.123457"
-license: CC BY 4.0
-repository-code: "https://github.com/sharpic/ManchesterCSDiabetesCoordinatedStudy"
+license: CC-BY-4.0
+repository-code: "https://github.com/sharpic/ManchesterCSCoordinatedDiabetesStudy"
