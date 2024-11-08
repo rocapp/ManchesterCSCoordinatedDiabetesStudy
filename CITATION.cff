@@ -6,11 +6,15 @@ authors:
   - family-names: Harper
     given-names: Simon
     orcid: "https://orcid.org/0000-0001-9301-5049"
-  - name: "Manchester CS Diabetes Technology"
-version: 0.11.2
+  - name: "University of Manchester"
+  - family-names: Hood
+    given-names: Thabit
+    orcid: "https://orcid.org/0000-0001-6076-6997"
+  - name: "Manchester University NHS Foundation Trust"
+version: 0.1.0
 date-released: "2024-11-07"
 identifiers:
-  - description: This is the collection of archived snapshots of all versions of My Research Software
+  - description: This is the collection of archived snapshots of all versions of the Coordinated Diabetes Study
     type: doi
     value: "10.5281/zenodo.123456"
   - description: This is the archived snapshot of version 0.11.2 of My Research Software
