@@ -3,6 +3,9 @@ message: If you use this software, please cite it using these metadata.
 title: Manchester Computer Science Coordinated Diabetes Study 
 abstract: This is my awesome research software. It does many things.
 authors:
+  - family-names: Alsuhaymi
+    given-names: Ashwaq
+    orcid: "https://orcid.org/0000-0002-6651-283X"
   - family-names: Bilal
     given-names: Ahmad
     orcid: "https://orcid.org/0000-0003-0296-122X"
