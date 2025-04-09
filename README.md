@@ -1,5 +1,7 @@
 # Dataset Title: T1D-UOM – A Longitudinal Multimodal Dataset of Type 1 Diabetes
 
+[![DOI](https://zenodo.org/badge/884931751.svg)](https://doi.org/10.5281/zenodo.15169263)
+
 ## Overview
 
 This dataset contains historical Type 1 Diabetes data collected across 16 individuals, covering activity data, blood glucose data, sleep data, insulin data, and nutrition Data. The data was collected in 2023 and 2024.
