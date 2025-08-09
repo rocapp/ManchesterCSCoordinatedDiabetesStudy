@@ -1,3 +1,7 @@
+**Note this is a fork of this [repo](https://github.com/sharpic/ManchesterCSCoordinatedDiabetesStudy.git)**
+
+**Also, making it clear that I'm unaffiliated with the original study.**
+
 # Dataset Title: T1D-UOM – A Longitudinal Multimodal Dataset of Type 1 Diabetes
 
 [![DOI](https://zenodo.org/badge/884931751.svg)](https://doi.org/10.5281/zenodo.15169263)
