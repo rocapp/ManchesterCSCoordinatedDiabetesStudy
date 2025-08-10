@@ -1,0 +1,8 @@
+LICENSE.md
+README.md
+main.py
+pyproject.toml
+manu_cs_glucose_preprocessing.egg-info/PKG-INFO
+manu_cs_glucose_preprocessing.egg-info/SOURCES.txt
+manu_cs_glucose_preprocessing.egg-info/dependency_links.txt
+manu_cs_glucose_preprocessing.egg-info/top_level.txt
